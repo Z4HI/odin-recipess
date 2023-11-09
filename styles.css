@@ -1,0 +1,79 @@
+*{
+
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+.background{
+
+    background-image: url(recipe-images/foodbaackground.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    height: 100%;
+
+}
+
+
+
+li{
+
+    border: #FFD9DA 5px solid;
+    margin: 40px;
+    width: 200px;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    
+
+}
+
+a:visited{
+
+    color: white;
+    text-decoration: none;
+}
+
+
+
+li:hover{
+    color: white;
+    background: black;
+
+}
+
+
+.odin-recipes{
+    font-family: Work Sans;
+    color: white;
+    border: #FFD9DA 10px double;
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+}
+
+img{
+    margin: 10px;
+    border: solid #FFD9DA 10px;
+    height: 200px;
+    width: 200px;
+    object-fit: ;
+    text-align: center;
+    padding: 10px;
+
+}
+
+.images{
+
+    text-align: center;
+}
+
+body {
+
+    background: linear-gradient(to right,#89023E,#CC7178);
+}
+
+
+
